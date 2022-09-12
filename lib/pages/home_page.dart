@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: AppColors.secondColor,
         elevation: 0,
         title: Text(
-          'English today',
+          'English ',
           style:
               AppStyles.h3.copyWith(color: AppColors.textColor, fontSize: 36),
         ),
