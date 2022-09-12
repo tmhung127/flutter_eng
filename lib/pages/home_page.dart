@@ -93,8 +93,7 @@ class _HomePageState extends State<HomePage> {
         elevation: 0,
         title: Text(
           'English ',
-          style:
-              AppStyles.h3.copyWith(color: AppColors.textColor, fontSize: 36),
+          style: AppStyles.h3.copyWith(color: AppColors.greyText, fontSize: 36),
         ),
         leading: InkWell(
           onTap: () {
